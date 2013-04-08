@@ -1,0 +1,45 @@
+###############################################
+##   Hack Title:   Admin Mass Delete Users
+##   Hack Version:   1.0.0
+##   Author:      Antony Bailey & Freakin' Booty ;-P
+##   Description:   Adds, a module to the admin panel, to select and delete a number of users..
+##   Compatibility:   2.0.0 - 2.0.5
+##
+##   Installation Level: Easy
+##   Installation Time: 1 minute
+##   Included Files: 3 
+##      admin_mass_delete_users.php 
+##      lang_admin_mass_delete_users.php
+##	admin_mass_delete_users.tpl
+##
+##   History:
+##      1.0.0:    Initial release.
+##
+##   Author Notes:
+##	We are so 1337.
+##	Seriously, be carefull as once a user is deleted, they can not be recovered.
+##
+##   Support:      http://www.phpbbhacks.com/forums
+##   Copyright:      ©2003 Admin Mass Delete Users 1.0.0 - Antony Bailey & Freakin' Booty ;-P
+##
+###############################################
+##   You downloaded this hack from phpBBHacks.com, the #1 source for phpBB related downloads.
+##   Please visit http://www.phpbbhacks.com/forums for support.
+###############################################
+##
+###############################################
+##   This hack is released under the GPL License.
+##   This hack can be freely used, but not distributed, without permission.
+##   Intellectual Property is retained by the hack author(s) listed above.
+###############################################
+
+#
+#-----[ UPLOAD ]------------------------------------------
+#
+admin/admin_mass_delete_users.php to /admin/admin_mass_delete_users.php
+language/lang_english/lang_admin_mass_delete_users.php to /language/lang_english/lang_admin_mass_delete_users.php
+templates/subSilver/admin/admin_mass_delete_users.tpl to /templates/subSilver/admin/admin_mass_delete_users.tpl
+#
+#-----[ SAVE & CLOSE ALL FILES ]--------------------------
+#
+#End
